@@ -16,10 +16,11 @@ Sistema para cadastro, visualização e inscrição de eventos acadêmicos da Un
 (Descrever brevemente o que precisa instalar e comandos)
 
 ## Equipe
-- João Silva – Java
-- Ana Souza – PHP
-- Marcos Lima – Node.js
-- **Vinícius Pedron – DevOps / GitHub**
+- Murilo Sousa - 
+- Rafael – 
+- Gabriel Freitas –
+- João Marques -  UX / Figma
+- Vinícius Pedron – DevOps / GitHub
 
 ## Git Flow
 1. Clonar o repositório
