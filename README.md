@@ -13,7 +13,11 @@ Sistema para cadastro, visualização e inscrição de eventos acadêmicos da Un
 - `docs/`: Documentação, protótipos e banco de dados
 
 ## Como rodar cada parte
-(Descrever brevemente o que precisa instalar e comandos)
+PHP - Frontend: É a interface do site e se conecta com API Node.js 
+Node.js: Faz a conexão com o banco de dados
+Java: Cadastra eventos e faz conexão com banco de dados
+UX: Protótipo do site
+GitHub: Cria repositórios, faz alguns codereviews, cria branches, histórico de forks, pull requests e issues 
 
 ## Equipe
 - Murilo Sousa - NodeJS / PHP / Java 
